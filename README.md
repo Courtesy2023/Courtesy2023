@@ -1,16 +1,22 @@
-### Hi there 👋
+### ℹ️ About 
 
-<!--
-**Courtesy1701/Courtesy1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Brute. 👋
 
-Here are some ideas to get you started:
+- I am learning some languages again after a long break (C#, Python and C++)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+
+- (Small) CLIMenuBase
+- (Small) Windows 11 Pro Activator (Planning to keep it updated frequently)
+
+## 🤝 Contact Me
+
+- Email: [bruteakasylo@proton.me](mailto:bruteakasylo@proton.me?subject=[GitHub]%20Source%20BruteAkaSylo)
+
+
+## ⛭ Github Statistics
+![Visitors](https://komarev.com/ghpvc/?username=courtesy1701&color=blueviolet)
+
+[![GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=courtesy1701&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=couresy1701&langs_count=5&theme=tokyonight&hide_border=true)]()
