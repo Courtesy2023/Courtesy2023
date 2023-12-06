@@ -1,6 +1,6 @@
 ### ℹ️ About 
 
-Hey, I'm Brute. 👋
+Hey, I'm Courtesy. 👋
 
 - I am learning some languages again after a long break (c++)
 
