@@ -2,12 +2,12 @@
 
 Hey, I'm Brute. 👋
 
-- I am learning some languages again after a long break (C#, Python and C++)
+- I am learning some languages again after a long break (c++)
 
 ## 🔭 Projects
 
-- (Small) CLIMenuBase
-- (Small) Windows 11 Pro Activator (Planning to keep it updated frequently)
+- [C#] (Small) CLIMenuBase
+- [CMD] (Small) Windows 11 Pro Activator (Planning to keep it updated frequently)
 
 ## 🤝 Contact Me
 
