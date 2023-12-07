@@ -21,3 +21,5 @@ Hey, I'm Courtesy. 👋
 [![GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=courtesy2023&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=couresy2023&langs_count=5&theme=tokyonight&hide_border=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=courtesy2023)](https://github.com/anuraghazra/github-readme-stats)
