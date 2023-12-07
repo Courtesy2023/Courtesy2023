@@ -18,6 +18,6 @@ Hey, I'm Courtesy. 👋
 ## ⛭ Github Statistics
 ![Visitors](https://komarev.com/ghpvc/?username=courtesy1701&color=blueviolet)
 
-[![GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=courtesy2023&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=courtesy1405&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=courtesy2023&langs_count=5&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=courtesy1405&langs_count=5&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
