@@ -6,8 +6,9 @@ Hey, I'm Courtesy. 👋
 
 ## 🔭 Projects
 
+- [C#] Custom discord bot
 - [C#] (Small) CLIMenuBase
-- [CMD] (Small) Windows 11 Pro Activator (Planning to keep it updated frequently)
+- [CMD] (Small) Windows 11 Pro Activator (Might update using C# and hosting the key on github so it's easy to update without needing to download a new version of the file)
 
 ## 🤝 Contact Me
 
