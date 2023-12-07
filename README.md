@@ -2,7 +2,7 @@
 
 Hey, I'm Courtesy. 👋
 
-- I am learning some languages again after a long break (c++)
+- I am learning some languages again after a long break (C# and C++)
 
 ## 🔭 Projects
 
